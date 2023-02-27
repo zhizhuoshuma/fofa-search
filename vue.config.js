@@ -2,7 +2,11 @@
  * @Author: zhizhuo 
  * @Date: 2023-02-02 13:42:49 
  * @Last Modified by: zhizhuo
- * @Last Modified time: 2023-02-24 14:52:07
+<<<<<<< HEAD
+ * @Last Modified time: 2023-02-24 15:07:56
+=======
+ * @Last Modified time: 2023-02-24 15:41:49
+>>>>>>> 682ee9e31c8b3047b4a2415a1f94c2d42b7a0bfc
  */
 
 const CopyWebpackPlugin = require("copy-webpack-plugin");
